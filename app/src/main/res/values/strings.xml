@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Karthik app</string>
+    <string name="button_string">Get Data</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="accept_permission">Please accept permission to access Location</string>
+    <string name="ok">OK</string>
+    <string name="error_message">Error while fetching data</string>
+    <string name="showing_result">Location: </string>
+    <string name="temp_c">&#176; C = </string>
+    <string name="temp_f">&#176; F = </string>
+</resources>
